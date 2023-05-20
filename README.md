@@ -14,7 +14,7 @@ Hi, I'm Abdellahi El Moustapha!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+You wanna know about me ? 
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
