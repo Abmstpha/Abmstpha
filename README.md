@@ -73,24 +73,6 @@ You wanna know about me ?
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
-
-## GitHub Stats
-
-
-|                                                                     Abdellahi's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Abdellahi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=&theme=react-dark&hide_border=true&area=true) |
-| ![Abdellahi's github stats](https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=algolia)              | 
-| ![Abdellahi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abmstpha&theme=algolia)                    | 
-    
-
-|                                                                                                      Abdellahi's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
