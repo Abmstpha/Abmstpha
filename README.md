@@ -80,7 +80,7 @@ You wanna know about me ?
 
 If you have any questions about Data Science, feel free to <a href="">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to do your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or contact me on <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to do your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
