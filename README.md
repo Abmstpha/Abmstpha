@@ -14,6 +14,7 @@ Hi, I'm Abdellahi El Moustapha!
 You wanna know about me ? 
 -------------------------
 💻 I am a data science student at [Polytechnic of Nouakchott](https://www.esp.mr/), Mauritania
+, Mauritania
 📝 I have a deep bound to Data Science and Artificial Intelligence
 🔭 I work in data analysis, Machine Learning and Deep Learning
 🌱 I love discovering new things on my own 
