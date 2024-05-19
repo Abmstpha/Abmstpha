@@ -75,7 +75,7 @@ You wanna know about me ?
 
 If you want to see my projects you can also visit my portfolio <a href="https://abmstpha.github.io/">Portfolio</a>.
 
-You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or contact me on <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to discuss your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or contact me on <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to discuss my data science projects.
 
   </td>
   </tr>
