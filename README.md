@@ -13,13 +13,12 @@ Hi, I'm Abdellahi El Moustapha!
 ```
 You wanna know about me ? 
 -------------------------
-💻 I am a data science student at Polytechnic of Nouakchott, Mauritania
-, Mauritania
-📝 I have a deep bound to Data Science and Artificial Intelligence
-🔭 I work in data analysis, Machine Learning and Deep Learning
-🌱 I love discovering new things on my own 
-🌟 Main Data Science languages I use: Python, R
-💖 In LOVE sharing Knowledge
+💻 I am a data science student at the Polytechnic of Nouakchott and the founder of Mauritania's largest data club, ESP DATA CLUB.
+📝 I have a deep passion for Data Science and Artificial Intelligence.
+🔭 My expertise includes data analysis, Machine Learning, and Deep Learning.
+🌱 I am enthusiastic about self-directed learning and discovering new concepts independently.
+🌟 My primary programming languages for Data Science are Python and R.
+💖 I love sharing knowledge and fostering a community of learning.
 ```
 <hr>
 
