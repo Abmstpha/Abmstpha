@@ -73,7 +73,7 @@ You wanna know about me ?
 
 ## Don't hesitate to contact me if you are working on a Data Science project!
 
-If you have any questions about Data Science, feel free to <a href="">contact me through email</a>.
+If you want to see my projects you can also visit my portfolio <a href="https://abmstpha.github.io/">Portfolio</a>.
 
 You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or contact me on <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to discuss your machine learning project on web.
 
