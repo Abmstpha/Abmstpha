@@ -30,9 +30,9 @@ You wanna know about me ?
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=R&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -47,7 +47,6 @@ You wanna know about me ?
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
 <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
@@ -74,7 +73,7 @@ You wanna know about me ?
 
 If you want to see my projects you can also visit my portfolio <a href="https://abmstpha.github.io/">Portfolio</a>.
 
-You can hire me as a freelancer on <a href="https://www.upwork.com/freelancers/~01cea7a985b0ffa667">Upwork</a> or contact me on <a href="https://www.linkedin.com/in/abdellahi-el-moustapha/">LinkedIn</a> to discuss my data science projects.
+You can also contact me on <a href="https://www.linkedin.com/in/abmstpha/">LinkedIn</a> to discuss my data science projects.
 
   </td>
   </tr>
