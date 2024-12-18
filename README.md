@@ -13,11 +13,11 @@ Hi, I'm Abdellahi El Moustapha!
 ```
 You wanna know about me?  
 -------------------------  
-💻 I am an engineer and a Master’s student in Data Science and AI at **Aivancity School for Technology, Business and Society** in **Paris, France**.  
-📝 Passionate about **Data Science** and **Artificial Intelligence**.  
-🔭 Skilled in **data analysis**, **Machine Learning**, and **Deep Learning**.  
-🌱 Lifelong learner with expertise in **Python**, **R**, and tools like Power BI.  
-💖 Founder of Mauritania's largest data club, **ESP DATA CLUB**, and dedicated to sharing knowledge.
+💻 I am an engineer and a Master’s student in Data Science and AI at Aivancity School for Technology, Business and Society in Paris, France.  
+📝 Passionate about Data Science and Artificial Intelligence.  
+🔭 Skilled in data analysis, Machine Learning, and Deep Learning.  
+🌱 Lifelong learner with expertise in Python, R, and tools like Power BI.  
+💖 Founder of Mauritania's largest data club, ESP DATA CLUB, and dedicated to sharing knowledge.
 
 ```
 <hr>
