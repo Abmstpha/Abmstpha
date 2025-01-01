@@ -4,8 +4,7 @@
   <h1 align="justify"><b>Hi, I'm Abdellahi El Moustapha!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <p align="justify">
   <a href="https://www.linkedin.com/in/abmstpha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/abmstpha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  </p>
+ </p>
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
@@ -16,56 +15,55 @@
 <h2 align="center">My Recent Projects 💻</h2>
 <br />
 
-<!-- Grid layout for 6 projects -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
-  <!-- Project 1 -->
-  <div>
-    <img src="./project1.png" alt="Neologism Translator" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/NLP" target="_blank">Neologism Translator</a>
-    </h3>
-  </div>
-
-  <!-- Project 2 -->
-  <div>
-    <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">Convolutional AutoEncoder</a>
-    </h3>
-  </div>
-
-  <!-- Project 3 -->
-  <div>
-    <img src="./project3.png" alt="DataTuring-Kaggle-Challenge" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/" target="_blank">DataTuring-Kaggle-Challenge</a>
-    </h3>
-  </div>
-
-  <!-- Project 4 -->
-  <div>
-    <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">Credit Card Analysis</a>
-    </h3>
-  </div>
-
-  <!-- Project 5 -->
-  <div>
-    <img src="./project5.png" alt="AceTrack" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">AceTrack</a>
-    </h3>
-  </div>
-
-  <!-- Project 6 -->
-  <div>
-    <img src="./project6.png" alt="E-Commerce Dashboard" width="200" height="120" />
-    <h3 align="center">
-      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">E-Commerce Dashboard</a>
-    </h3>
-  </div>
-</div>
+<!-- Table layout for 6 projects -->
+<table align="center">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center">
+      <img src="./project1.png" alt="Neologism Translator" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/NLP" target="_blank">Neologism Translator</a>
+      </h3>
+    </td>
+    <!-- Project 2 -->
+    <td align="center">
+      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">Convolutional AutoEncoder</a>
+      </h3>
+    </td>
+    <!-- Project 3 -->
+    <td align="center">
+      <img src="./project3.png" alt="DataTuring-Kaggle-Challenge" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/" target="_blank">DataTuring-Kaggle-Challenge</a>
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 4 -->
+    <td align="center">
+      <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/PowerBI" target="_blank">Credit Card Analysis</a>
+      </h3>
+    </td>
+    <!-- Project 5 -->
+    <td align="center">
+      <img src="./project5.png" alt="AceTrack" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">AceTrack</a>
+      </h3>
+    </td>
+    <!-- Project 6 -->
+    <td align="center">
+      <img src="./project6.png" alt="E-Commerce Dashboard" width="200" height="120" />
+      <h3>
+        <a href="https://github.com/Abmstpha/PowerBI" target="_blank">E-Commerce Dashboard</a>
+      </h3>
+    </td>
+  </tr>
+</table>
 
 
 <!-- ////////// ABOUT ME ////////// -->  
