@@ -1,82 +1,76 @@
-<h1 align="center">
-Hi, I'm Abdellahi El Moustapha!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=abmstpha&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="abmstpha" />-->
-<br/>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Freelancer;Data%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<img align="left" src="https://github.com/Abmstpha/Abmstpha/blob/main/pic-min.png" alt="A picture of me while focusing on some project" width="320" />
-<hr>
-
-```
-You wanna know about me?  
--------------------------
-   Based in  Paris, France.  
-💻 I am an engineer and a Master’s student in Data Science and AI.
-📝 Passionate about Data Science and Artificial Intelligence.  
-🔭 Skilled in data analysis, Machine Learning, and Deep Learning.  
-🌱 Lifelong learner with expertise in Python, R, and tools like Power BI.  
-💖 Founder of Mauritania's largest data club, ESP DATA CLUB, and dedicated to sharing knowledge.
-
-```
-<hr>
-
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
+"""
+<!-- ///////// NAME AND BADGES ///////// -->
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=R&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"</a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <h1 align="justify"><b>Hi, I'm Abdellahi El Moustapha!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+   <p align="justify">
+  <a href="https://www.linkedin.com/in/abmstpha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/abmstpha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+  </p>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+<!-- ///////// ANIMATED BIO TEXT ///////// -->
+[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Scientist+and+AI+Enthusiast;Passionate+about+Learning+and+Sharing+Knowledge;Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
+</p>
+    
+<!-- ///////// PROJECTS SECTION ///////// -->
+<h2 align="justify">My Recent Projects 💻</h2>
+<br />
 
 <p>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
-<a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<!-- ////////// PROJECT THUMBNAILS ////////// -->
+  <img width="400" height="210" src="./project4.png" />
+  <img width="400" height="210" src="./project6.png" /> 
+    
+<!-- ////////// PROJECT TITLES AND LINKS ////////// -->       
+  <a href="https://github.com/Abmstpha/NLP">
+    <h3 align="center">Neologism Translator</h3>
+  </a>
+  <a href="https://github.com/Abmstpha/BloodCells-YOLOv5">
+    <h3 align="center">YOLOv5: Detecting Blood Cells</h3>
+  </a>
 </p>
 
-### 💻 Software and Tools
+<!-- ////////// ABOUT ME ////////// -->  
+<h2 align="justify">About Me 😃</h2>
+<p>Timezone: Europe/Paris (UTC+1)</p>
+<p>I'm passionate about solving problems using data science and AI. I love learning and sharing my knowledge with others. When I'm not coding, you'll likely find me exploring new AI tools 🤓 📖 or engaging in youth-focused initiatives 🚀.
 
-<p>
-   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<br>
+<br>
+    
+<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
+<h2>Languages and Tools</h2>
 </p>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
 
+<br>
+<br>
+    
+<!-- ////////// GITHUB STATS ////////// -->  
+<h2 align="justify">Github Stats 📈 </h2>
+<br>
 
-
-<table style="border: none">
-  <tr>
-  <td width="100%" valign="top">
-
-## Don't hesitate to contact me if you are working on a Data Science project!
-
-If you want to see my projects you can also visit my portfolio <a href="https://abmstpha.github.io/">Portfolio</a>.
-
-You can also contact me on <a href="https://www.linkedin.com/in/abmstpha/">LinkedIn</a> to discuss my data science projects.
-
-  </td>
-  </tr>
-</table>
-
-
-
-
-
+<a align="justify" href="https://github.com/Abmstpha/Abmstpha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Abmstpha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+"""
