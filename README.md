@@ -39,9 +39,8 @@
         <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">YOLOv5: Detecting Blood Cells</a>
       </h3>
     </td>
-    </tr>
-    <tr>
-
+  </tr>
+  <tr>
     <!-- Project 4 -->
     <td align="center">
       <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
