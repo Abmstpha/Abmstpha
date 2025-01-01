@@ -80,27 +80,64 @@
 <br>
 <br>
     
-<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
-<h2>Languages and Tools</h2>
-</p>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
-  </a>
+<!-- ///////// LANGUAGES AND TOOLS ///////// -->  
+<h2 align="center">🛠️ My Favorite Tools</h2>
+
+<!-- Programming Languages -->
+<h3 align="left">👨‍💻 Programming Languages</h3>
+<p>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=R&logoColor=white">
   </a>
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=mysql&logoColor=white">
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+</p>
+
+<!-- Frameworks and Libraries -->
+<h3 align="left">🧰 Frameworks and Libraries</h3>
+<p>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
   </a>
+</p>
+
+<!-- Databases and Cloud Hosting -->
+<h3 align="left">🗄️ Databases and Cloud Hosting</h3>
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white">
+  </a>
+</p>
+
+<!-- Software and Tools -->
+<h3 align="left">💻 Software and Tools</h3>
+<p>
+  <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
+
 
 <br>
 <br>
