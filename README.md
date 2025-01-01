@@ -66,10 +66,15 @@
 </table>
 
 
-<!-- ////////// ABOUT ME ////////// -->  
-<h2 align="justify">About Me 😃</h2>
-<p>Timezone: Europe/Paris (UTC+1)</p>
-<p>I'm passionate about solving problems using data science and AI. I love learning and sharing my knowledge with others. When I'm not coding, you'll likely find me exploring new AI tools 🤓 📖 or engaging in youth-focused initiatives 🚀.
+<!-- ///////// ABOUT ME ///////// -->  
+<h2 align="center">Who Am I? 🤔</h2>
+<p>
+   Based in the vibrant city of Paris, France, I am an engineer and Master’s student specializing in Data Science and AI. My journey is driven by a passion for solving real-world challenges using cutting-edge technologies in Machine Learning, Deep Learning, and Data Analysis. 
+
+   As a lifelong learner, I continuously explore tools like Python, R, and Power BI to enhance my expertise. Beyond academics and professional work, I am the proud founder of Mauritania's largest data community, ESP DATA CLUB, where I strive to inspire and share knowledge with others.
+
+   When I'm not immersed in code or models, you’ll find me brainstorming innovative solutions, mentoring youth, or collaborating on impactful projects to shape a better future. 🚀
+</p>
 
 <br>
 <br>
