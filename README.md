@@ -143,13 +143,26 @@
 <br>
     
 
-<!-- ///////// GITHUB STATS  ///////// -->  
+<!-- ///////// GITHUB STATS ///////// -->
 <h2 align="center">Github Stats 📈</h2>
 
-<a align="justify" href="https://github.com/Abmstpha/Abmstpha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Abmstpha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <a href="https://github.com/Abmstpha/Abmstpha">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Abmstpha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" 
+      alt="GitHub Stats" 
+      width="400"
+      height="200" 
+    />
+  </a>
+  <a href="https://github.com/Abmstpha">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" 
+      alt="Top Languages" 
+      width="400"
+      height="200" 
+    />
+  </a>
+</div>
+
 """
