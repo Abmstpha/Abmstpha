@@ -34,13 +34,14 @@
     </td>
     <!-- Project 3 -->
     <td align="center">
-      <img src="./project3.png" alt="DataTuring-Kaggle-Challenge" width="200" height="120" />
+      <img src="./project7.png" alt="YOLOv5: Detecting Blood Cells" width="200" height="120" />
       <h3>
-        <a href="https://github.com/Abmstpha/" target="_blank">DataTuring-Kaggle-Challenge</a>
+        <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">YOLOv5: Detecting Blood Cells</a>
       </h3>
     </td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
+
     <!-- Project 4 -->
     <td align="center">
       <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
