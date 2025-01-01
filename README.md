@@ -13,22 +13,60 @@
 </p>
     
 <!-- ///////// PROJECTS SECTION ///////// -->
-<h2 align="justify">My Recent Projects 💻</h2>
+<h2 align="center">My Recent Projects 💻</h2>
 <br />
 
-<p>
-<!-- ////////// PROJECT THUMBNAILS ////////// -->
-  <img width="400" height="210" src="./project4.png" />
-  <img width="400" height="210" src="./project6.png" /> 
-    
-<!-- ////////// PROJECT TITLES AND LINKS ////////// -->       
-  <a href="https://github.com/Abmstpha/NLP">
-    <h3 align="center">Neologism Translator</h3>
-  </a>
-  <a href="https://github.com/Abmstpha/BloodCells-YOLOv5">
-    <h3 align="center">YOLOv5: Detecting Blood Cells</h3>
-  </a>
-</p>
+<!-- Grid layout for 6 projects -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center;">
+  <!-- Project 1 -->
+  <div>
+    <img src="./project1.png" alt="Neologism Translator" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/NLP" target="_blank">Neologism Translator</a>
+    </h3>
+  </div>
+
+  <!-- Project 2 -->
+  <div>
+    <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">Convolutional AutoEncoder</a>
+    </h3>
+  </div>
+
+  <!-- Project 3 -->
+  <div>
+    <img src="./project3.png" alt="DataTuring-Kaggle-Challenge" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/" target="_blank">DataTuring-Kaggle-Challenge</a>
+    </h3>
+  </div>
+
+  <!-- Project 4 -->
+  <div>
+    <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">Credit Card Analysis</a>
+    </h3>
+  </div>
+
+  <!-- Project 5 -->
+  <div>
+    <img src="./project5.png" alt="AceTrack" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">AceTrack</a>
+    </h3>
+  </div>
+
+  <!-- Project 6 -->
+  <div>
+    <img src="./project6.png" alt="E-Commerce Dashboard" width="200" height="120" />
+    <h3 align="center">
+      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">E-Commerce Dashboard</a>
+    </h3>
+  </div>
+</div>
+
 
 <!-- ////////// ABOUT ME ////////// -->  
 <h2 align="justify">About Me 😃</h2>
