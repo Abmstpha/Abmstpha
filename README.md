@@ -142,9 +142,9 @@
 <br>
 <br>
     
-<!-- ////////// GITHUB STATS ////////// -->  
-<h2 align="justify">Github Stats 📈 </h2>
-<br>
+
+<!-- ///////// GITHUB STATS  ///////// -->  
+<h2 align="center">Github Stats 📈</h2>
 
 <a align="justify" href="https://github.com/Abmstpha/Abmstpha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
