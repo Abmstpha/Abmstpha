@@ -15,7 +15,8 @@
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Scientist+and+AI+Enthusiast;Passionate+about+Learning+and+Sharing+Knowledge;Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
 </p>
-    
+
+
 <!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="center">My Recent Projects 💻</h2>
 <br />
@@ -30,6 +31,8 @@
       <a href="https://github.com/Abmstpha/NLP" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> Neologism Translator</p>
+      <p><b>Description:</b> An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
     </td>
     <!-- Project 2 -->
     <td align="center">
@@ -38,6 +41,8 @@
       <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> Convolutional AutoEncoder</p>
+      <p><b>Description:</b> A deep learning model for image compression using the CIFAR-10 dataset.</p>
     </td>
     <!-- Project 3 -->
     <td align="center">
@@ -46,6 +51,8 @@
       <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> YOLOv5: Detecting Blood Cells</p>
+      <p><b>Description:</b> A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
     </td>
   </tr>
   <tr>
@@ -56,6 +63,8 @@
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> Credit Card Analysis Dashboards</p>
+      <p><b>Description:</b> Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
     </td>
     <!-- Project 5 -->
     <td align="center">
@@ -64,6 +73,8 @@
       <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> AceTrack</p>
+      <p><b>Description:</b> An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
     </td>
     <!-- Project 6 -->
     <td align="center">
@@ -72,10 +83,11 @@
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
       </a>
+      <p><b>Project:</b> E-Commerce Dashboard</p>
+      <p><b>Description:</b> Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
     </td>
   </tr>
 </table>
-
 
 
 
