@@ -79,8 +79,7 @@
 
 <br>
 <br>
-    
-<!-- ///////// LANGUAGES AND TOOLS ///////// -->  
+ <!-- ///////// LANGUAGES AND TOOLS ///////// -->  
 <h2 align="center">🛠️ My Favorite Tools</h2>
 
 <!-- Programming Languages -->
@@ -91,9 +90,6 @@
   </a>
   <a href="https://www.r-project.org/" target="_blank">
     <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=R&logoColor=white">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=mysql&logoColor=white">
   </a>
 </p>
 
@@ -115,6 +111,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
   </a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   <a href="https://cloud.google.com/" target="_blank">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white">
   </a>
@@ -137,6 +134,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   </a>
 </p>
+
 
 
 <br>
