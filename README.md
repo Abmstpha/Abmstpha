@@ -25,50 +25,45 @@
   <tr>
     <!-- Project 1 -->
     <td align="center">
-      <img src="./project1.png" alt="Neologism Translator" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/NLP" target="_blank">Neologism Translator</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/NLP" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
     <!-- Project 2 -->
     <td align="center">
-      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">Convolutional AutoEncoder</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
     <!-- Project 3 -->
     <td align="center">
-      <img src="./project7.png" alt="YOLOv5: Detecting Blood Cells" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">YOLOv5: Detecting Blood Cells</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
   </tr>
   <tr>
     <!-- Project 4 -->
     <td align="center">
-      <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/PowerBI" target="_blank">Credit Card Analysis</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
     <!-- Project 5 -->
     <td align="center">
-      <img src="./project5.png" alt="AceTrack" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">AceTrack</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
     <!-- Project 6 -->
     <td align="center">
-      <img src="./project6.png" alt="E-Commerce Dashboard" width="200" height="120" />
-      <h3>
-        <a href="https://github.com/Abmstpha/PowerBI" target="_blank">E-Commerce Dashboard</a>
-      </h3>
+      <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 <!-- ///////// ABOUT ME ///////// -->  
