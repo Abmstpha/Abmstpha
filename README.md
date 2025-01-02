@@ -16,7 +16,6 @@
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Scientist+and+AI+Enthusiast;Passionate+about+Learning+and+Sharing+Knowledge;Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
 </p>
 
-
 <!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="center">My Recent Projects 💻</h2>
 <br />
@@ -29,30 +28,24 @@
       <img src="./project1.png" alt="Neologism Translator" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/NLP" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight&custom_title=Neologism%20Translator&description=An%20NLP%20model%20that%20generates%20scientific%20terms%20(neologisms)%20from%20definitions%20for%20multilingual%20research%20contexts." width="400" height="210" />
       </a>
-      <p><b>Project:</b> Neologism Translator</p>
-      <p><b>Description:</b> An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
     </td>
     <!-- Project 2 -->
     <td align="center">
       <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight&custom_title=Convolutional%20AutoEncoder&description=A%20deep%20learning%20model%20for%20image%20compression%20using%20the%20CIFAR-10%20dataset." width="400" height="210" />
       </a>
-      <p><b>Project:</b> Convolutional AutoEncoder</p>
-      <p><b>Description:</b> A deep learning model for image compression using the CIFAR-10 dataset.</p>
     </td>
     <!-- Project 3 -->
     <td align="center">
       <img src="./project7.png" alt="YOLOv5: Detecting Blood Cells" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight&custom_title=YOLOv5:%20Detecting%20Blood%20Cells&description=A%20YOLOv5%20model%20trained%20to%20detect%20and%20classify%20blood%20cells,%20including%20WBC,%20RBC,%20and%20platelets." width="400" height="210" />
       </a>
-      <p><b>Project:</b> YOLOv5: Detecting Blood Cells</p>
-      <p><b>Description:</b> A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
     </td>
   </tr>
   <tr>
@@ -61,34 +54,27 @@
       <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&custom_title=Credit%20Card%20Analysis&description=Power%20BI%20dashboards%20analyzing%20revenue%20trends,%20expenditures,%20and%20customer%20behavior." width="400" height="210" />
       </a>
-      <p><b>Project:</b> Credit Card Analysis Dashboards</p>
-      <p><b>Description:</b> Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
     </td>
     <!-- Project 5 -->
     <td align="center">
       <img src="./project5.png" alt="AceTrack" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&custom_title=AceTrack&description=An%20MT5-based%20AI%20tool%20for%20evaluating%20student%20exams%20and%20generating%20constructive%20feedback." width="400" height="210" />
       </a>
-      <p><b>Project:</b> AceTrack</p>
-      <p><b>Description:</b> An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
     </td>
     <!-- Project 6 -->
     <td align="center">
       <img src="./project6.png" alt="E-Commerce Dashboard" width="200" height="120" />
       <br />
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&custom_title=E-Commerce%20Dashboard&description=Interactive%20Power%20BI%20dashboards%20for%20analyzing%20product%20sales%20and%20customer%20demographics." width="400" height="210" />
       </a>
-      <p><b>Project:</b> E-Commerce Dashboard</p>
-      <p><b>Description:</b> Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
     </td>
   </tr>
 </table>
-
 
 
 <!-- ///////// ABOUT ME ///////// -->  
