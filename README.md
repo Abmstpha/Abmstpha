@@ -16,7 +16,6 @@
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Scientist+and+AI+Enthusiast;Passionate+about+Learning+and+Sharing+Knowledge;Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
 </p>
 
-
 <!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="center">My Recent Projects 💻</h2>
 <br />
@@ -25,70 +24,63 @@
 <table align="center">
   <tr>
     <!-- Project 1 -->
-    <td align="center">
-      <img src="./project1.png" alt="Neologism Translator" width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project1.png" alt="Neologism Translator" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/NLP" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> Neologism Translator</p>
-      <p>  An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
+      <p style="margin: 0; font-weight: bold;">Neologism Translator</p>
+      <p style="margin: 0;">An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
     </td>
     <!-- Project 2 -->
-    <td align="center">
-      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset"  width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> Convolutional AutoEncoder</p>
-      <p>  A deep learning model for image compression using the CIFAR-10 dataset.</p>
+      <p style="margin: 0; font-weight: bold;">Convolutional AutoEncoder</p>
+      <p style="margin: 0;">A deep learning model for image compression using the CIFAR-10 dataset.</p>
     </td>
     <!-- Project 3 -->
-    <td align="center">
-      <img src="./project7.png" alt="YOLOv5: Detecting Blood Cells"  width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project7.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> YOLOv5: Detecting Blood Cells</p>
-      <p>  A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
+      <p style="margin: 0; font-weight: bold;">YOLOv5: Detecting Blood Cells</p>
+      <p style="margin: 0;">A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
     </td>
   </tr>
   <tr>
     <!-- Project 4 -->
-    <td align="center">
-      <img src="./project4.png" alt="Credit Card Analysis Dashboards"  width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> Credit Card Analysis Dashboards</p>
-      <p>  Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
+      <p style="margin: 0; font-weight: bold;">Credit Card Analysis Dashboards</p>
+      <p style="margin: 0;">Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
     </td>
     <!-- Project 5 -->
-    <td align="center">
-      <img src="./project5.png" alt="AceTrack"  width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project5.png" alt="AceTrack" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> AceTrack</p>
-      <p>  An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
+      <p style="margin: 0; font-weight: bold;">AceTrack</p>
+      <p style="margin: 0;">An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
     </td>
     <!-- Project 6 -->
-    <td align="center">
-      <img src="./project6.png" alt="E-Commerce Dashboard"  width="350" height="180" />
-      <br />
+    <td align="center" style="padding: 5px;">
+      <img src="./project6.png" alt="E-Commerce Dashboard" width="350" height="180" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
-      <p> E-Commerce Dashboard</p>
-      <p>  Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
+      <p style="margin: 0; font-weight: bold;">E-Commerce Dashboard</p>
+      <p style="margin: 0;">Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
     </td>
   </tr>
 </table>
-
 
 
 <!-- ///////// ABOUT ME ///////// -->  
