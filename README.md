@@ -32,7 +32,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
       </a>
       <p> Neologism Translator</p>
-      <p><b>Description:</b> An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
+      <p>  An NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts.</p>
     </td>
     <!-- Project 2 -->
     <td align="center">
@@ -42,7 +42,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" />
       </a>
       <p> Convolutional AutoEncoder</p>
-      <p><b>Description:</b> A deep learning model for image compression using the CIFAR-10 dataset.</p>
+      <p>  A deep learning model for image compression using the CIFAR-10 dataset.</p>
     </td>
     <!-- Project 3 -->
     <td align="center">
@@ -52,7 +52,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight" width="400" height="210" />
       </a>
       <p> YOLOv5: Detecting Blood Cells</p>
-      <p><b>Description:</b> A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
+      <p>  A YOLOv5 model trained for detecting and classifying blood cells (WBC, RBC, and platelets).</p>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
       </a>
       <p> Credit Card Analysis Dashboards</p>
-      <p><b>Description:</b> Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
+      <p>  Power BI dashboards analyzing revenue trends, expenditures, and customer behavior.</p>
     </td>
     <!-- Project 5 -->
     <td align="center">
@@ -74,7 +74,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight" width="400" height="210" />
       </a>
       <p> AceTrack</p>
-      <p><b>Description:</b> An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
+      <p>  An MT5-based AI tool for evaluating student exams and generating constructive feedback.</p>
     </td>
     <!-- Project 6 -->
     <td align="center">
@@ -84,7 +84,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight" width="400" height="210" />
       </a>
       <p> E-Commerce Dashboard</p>
-      <p><b>Description:</b> Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
+      <p>  Power BI dashboards for analyzing product sales, customer demographics, and trends.</p>
     </td>
   </tr>
 </table>
