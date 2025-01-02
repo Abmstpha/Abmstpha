@@ -26,7 +26,7 @@
   <tr>
     <!-- Project 1 -->
     <td align="center">
-      <img src="./project1.png" alt="Neologism Translator" width="350" height="250" />
+      <img src="./project1.png" alt="Neologism Translator" width="350" height="200" />
       <br />
       <a href="https://github.com/Abmstpha/NLP" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight" width="400" height="210" />
