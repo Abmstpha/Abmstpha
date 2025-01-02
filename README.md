@@ -34,7 +34,7 @@
     </td>
     <!-- Project 2 -->
     <td align="center" style="padding: 5px;">
-      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 5px;" />
+      <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="160" style="margin-bottom: 5px;" />
       <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight" width="400" height="210" style="margin-bottom: 5px;" />
       </a>
