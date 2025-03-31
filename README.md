@@ -1,6 +1,6 @@
 <!-- ///////// NAME AND BADGES ///////// -->
 <p>
-  <h1 align="justify"><b>Hi, I'm Abdellahi El Moustapha!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="justify"><b>Hiii, I'm Abdellahi El Moustapha!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <p align="justify">
       <a href="https://www.linkedin.com/in/abmstpha/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
