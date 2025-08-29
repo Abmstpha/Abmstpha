@@ -180,4 +180,15 @@
   </a>
 </div>
 
+<!-- ///////// STREAK AND ACTIVITY ///////// -->
+<h3 align="center">🔥 My Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abmstpha&theme=gotham&hide_border=true" alt="Abdellahi's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true" alt="Abdellahi's GitHub Activity Graph" />
+</p>
+
 
