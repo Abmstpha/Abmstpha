@@ -109,7 +109,7 @@
 
 <!-- Project 1: NLP Project -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/NLP-Projects/main/preview.png" alt="NLP Project" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project1.png" alt="NLP Project" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/NLP-Projects" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP-Projects&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
