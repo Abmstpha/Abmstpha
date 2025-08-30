@@ -19,9 +19,7 @@
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%2336BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔬+Data+Scientist+and+AI+Enthusiast;💡+Passionate+about+Learning+&+Sharing+Knowledge;🚀+Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer+%7C+Data+Scientist+%7C+Builder;🎓+Master's+Student+at+Aivancity+%7C+Alternant+at+Norma;🚀+Shaping+AI+Evaluation+Workflows;🌍+Crafting+Tech+for+Mauritania+%26+Beyond" alt="Typing SVG">
 </p>
 
 <br>
@@ -263,5 +261,5 @@
 
   <br><br>
 
-  <strong>⭐ From <a href="https://github.com/Abmstpha">Abdellahi El Moustapha</a> — Building the future with data, one algorithm at a time! 🚀</strong>
+  <strong>⭐ From <a href="https://github.com/Abmstpha">Abdellahi El Moustapha</a>  Building the future with data, one algorithm at a time! 🚀</strong>
 </div>
