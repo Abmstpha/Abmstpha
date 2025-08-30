@@ -85,7 +85,7 @@
         <br>Jupyter
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" width="100" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
