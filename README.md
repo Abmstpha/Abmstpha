@@ -171,36 +171,40 @@
 </div>
 </td>
 
-<!-- Project 5 (Add your 5th project here) -->
+<!-- ///////// PROJECT 5 ///////// -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project5.png" alt="Project 5" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/YourRepo5" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=YourRepo5&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📊 Project Title 5</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Description of your fifth project goes here. Add details about the technology stack and objectives.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/Tech1-Color?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech2-Color?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech3-Color?style=flat-square" />
-</div>
+  <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrackAI" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 AceTrack AI</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
+    AI-powered exam feedback platform. Upload student scans, get automated evaluation with GPT.
+  </p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPT-6e40c9?style=flat-square" />
+  </div>
 </td>
 
-<!-- Project 6 (Add your 6th project here) -->
+<!-- ///////// PROJECT 6 ///////// -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project6.png" alt="Project 6" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/YourRepo6" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=YourRepo6&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🚀 Project Title 6</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Description of your sixth project goes here. Add details about the technology stack and objectives.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/Tech1-Color?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech2-Color?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech3-Color?style=flat-square" />
-</div>
+  <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=ecommerce-dashboard&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📊 E-Commerce Dashboard</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
+    Interactive dashboard showing sales KPIs, product trends, and customer data using Plotly Dash.
+  </p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/Dash-1e1e1e?style=flat-square&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  </div>
 </td>
 </tr>
 </table>
