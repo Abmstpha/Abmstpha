@@ -171,41 +171,40 @@
 </div>
 </td>
 
-<!-- ///////// PROJECT 5 ///////// -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrackAI" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 AceTrack AI</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    AI-powered exam feedback platform. Upload student scans, get automated evaluation with GPT.
-  </p>
-  <br>
-  <div>
+
+  <!-- Project 5: AceTrackAI -->
+  <td align="center" width="50%" style="padding: 20px;">
+    <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
+      <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrack AI Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
+    </a>
+    <br><br>
+    <h3>🧠 AceTrack AI</h3>
+    <p style="color: #c9d1d9; font-size: 14px; max-width: 90%;">
+      AI-powered exam feedback platform. Upload student scans, get automated evaluation with GPT.
+    </p>
+    <br>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/GPT-6e40c9?style=flat-square" />
-  </div>
-</td>
+  </td>
 
-<!-- ///////// PROJECT 6 ///////// -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=ecommerce-dashboard&theme=tokyonight&border_radius=8" width="400" height="150" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📊 E-Commerce Dashboard</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Interactive dashboard showing sales KPIs, product trends, and customer data using Plotly Dash.
-  </p>
-  <br>
-  <div>
+  <!-- Project 6: E-commerce Dashboard -->
+  <td align="center" width="50%" style="padding: 20px;">
+    <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
+      <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
+    </a>
+    <br><br>
+    <h3>📊 E-Commerce Dashboard</h3>
+    <p style="color: #c9d1d9; font-size: 14px; max-width: 90%;">
+      Interactive dashboard showing sales KPIs, product trends, and customer data using Plotly Dash.
+    </p>
+    <br>
     <img src="https://img.shields.io/badge/Dash-1e1e1e?style=flat-square&logo=plotly&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  </div>
-</td>
+  </td>
+
+</tr>
 </tr>
 </table>
 
