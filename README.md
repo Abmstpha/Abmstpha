@@ -180,6 +180,7 @@
   </a>
 </div>
 
+[![WakaTime Badge](https://wakatime.com/badge/user/abmstpha.svg)](https://wakatime.com/@abmstpha)
 <!-- ///////// STREAK AND ACTIVITY ///////// -->
 <h3 align="center">🔥 My Stats</h3>
 
