@@ -23,7 +23,7 @@
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%2336BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔬+Data+Scientist+and+AI+Enthusiast;💡+Passionate+about+Learning+and+Sharing+Knowledge;🚀+Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=%2336BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔬+Data+Scientist+and+AI+Enthusiast;💡+Passionate+about+Learning+&+Sharing+Knowledge;🚀+Founder+of+ESP+Data+Club)](https://git.io/typing-svg)
 
 </p>
 
