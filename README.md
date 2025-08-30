@@ -105,106 +105,111 @@
 <!-- Table layout for 6 projects -->
 <table align="center" style="border-spacing: 20px;">
 <tr>
-<!-- Project 1 -->
+
+
+<!-- Project 1: NLP Project -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project1.png" alt="Neologism Translator" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/NLP" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🔬 Neologism Translator</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">An advanced NLP model generating scientific terms (neologisms) from definitions for multilingual research contexts using transformer architecture.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
-</div>
+  <img src="https://raw.githubusercontent.com/Abmstpha/NLP-Projects/main/preview.png" alt="NLP Project" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/NLP-Projects" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP-Projects&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 NLP Classification</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A transformer-based text classification project using HuggingFace pipelines and TensorFlow for sentiment analysis.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
+  </div>
 </td>
 
-<!-- Project 2 -->
+<!-- Project 2: Convolutional AutoEncoder -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🖼️ Convolutional AutoEncoder</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A sophisticated deep learning model for image compression and reconstruction using the CIFAR-10 dataset with optimized encoder-decoder architecture.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CIFAR10-FF6F00?style=flat-square" />
-</div>
+  <img src="https://raw.githubusercontent.com/Abmstpha/DeepLearning/main/preview.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🖼️ Convolutional AutoEncoder</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A deep learning model for image compression and reconstruction using the CIFAR-10 dataset with a custom encoder-decoder architecture.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/CIFAR10-FF6F00?style=flat-square" />
+  </div>
 </td>
 
-<!-- Project 3 -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project7.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🏥 YOLOv5: Blood Cell Detection</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A state-of-the-art YOLOv5 model trained for precise detection and classification of blood cells (WBC, RBC, and platelets) for medical diagnostics.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical_AI-DC143C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=flat-square" />
-</div>
-</td>
 </tr>
-
 <tr>
-<!-- Project 4 -->
+
+<!-- Project 3: YOLOv5 Blood Cell Detection -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-<img src="./project4.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-<a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-</a>
-<p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">💳 Credit Card Analytics</p>
-<p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Comprehensive Power BI dashboards providing deep insights into credit card usage patterns, fraud detection, and financial risk assessment.</p>
-<br>
-<div>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Finance-228B22?style=flat-square" />
-</div>
+  <img src="https://raw.githubusercontent.com/Abmstpha/BloodCells-YOLOv5/main/preview.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🏥 YOLOv5: Blood Cell Detection</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">YOLOv5 model trained for detection/classification of blood cells (WBC, RBC, Platelets) in medical imaging datasets.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/YOLO-FF6F00?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medical_AI-DC143C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=flat-square" />
+  </div>
 </td>
 
+<!-- Project 4: Credit Card Analytics -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://raw.githubusercontent.com/Abmstpha/PowerBI/main/preview.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">💳 Credit Card Analytics</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Power BI dashboards for analyzing credit card behavior, detecting fraud, and scoring financial risk.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Finance-228B22?style=flat-square" />
+  </div>
+</td>
 
-  <!-- Project 5: AceTrackAI -->
-  <td align="center" width="50%" style="padding: 20px;">
-    <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
-      <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrack AI Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
-    </a>
-    <br><br>
-    <h3>🧠 AceTrack AI</h3>
-    <p style="color: #c9d1d9; font-size: 14px; max-width: 90%;">
-      AI-powered exam feedback platform. Upload student scans, get automated evaluation with GPT.
-    </p>
-    <br>
+</tr>
+<tr>
+
+<!-- Project 5: AceTrack AI -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrack AI Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 AceTrack AI</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload student exam PDFs and get structured GPT-based feedback using OCR and AI evaluation logic.</p>
+  <br>
+  <div>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/GPT-6e40c9?style=flat-square" />
-  </td>
+  </div>
+</td>
 
-  <!-- Project 6: E-commerce Dashboard -->
-  <td align="center" width="50%" style="padding: 20px;">
-    <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
-      <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
-    </a>
-    <br><br>
-    <h3>📊 E-Commerce Dashboard</h3>
-    <p style="color: #c9d1d9; font-size: 14px; max-width: 90%;">
-      Interactive dashboard showing sales KPIs, product trends, and customer data using Plotly Dash.
-    </p>
-    <br>
+<!-- Project 6: E-Commerce Dashboard -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=ecommerce-dashboard&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📊 E-Commerce Dashboard</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Interactive dashboard for tracking product trends, customer behavior, and sales using Plotly Dash.</p>
+  <br>
+  <div>
     <img src="https://img.shields.io/badge/Dash-1e1e1e?style=flat-square&logo=plotly&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  </td>
+  </div>
+</td>
 
-</tr>
+
 </tr>
 </table>
 
