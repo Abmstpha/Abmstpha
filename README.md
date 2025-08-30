@@ -233,9 +233,9 @@
 <!-- ///////// ACHIEVEMENTS SECTION ///////// -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abmstpha&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abmstpha&theme=tokyonight&no-frame=true&only_achievement=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
 
 <br>
 
@@ -268,11 +268,13 @@
 
 <!-- ///////// FOOTER ///////// -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" />
   
   <h3>💫 Thanks for visiting my profile!</h3>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Abmstpha/count.svg)
-  
-  **⭐ From [Abdellahi El Moustapha](https://github.com/Abmstpha) - Building the future with data, one algorithm at a time! 🚀**
+
+  <img src="https://komarev.com/ghpvc/?username=Abmstpha&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
+
+  <br><br>
+
+  <strong>⭐ From <a href="https://github.com/Abmstpha">Abdellahi El Moustapha</a> — Building the future with data, one algorithm at a time! 🚀</strong>
 </div>
