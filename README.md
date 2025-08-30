@@ -38,7 +38,6 @@
 
 <!-- ///////// TECH STACK SECTION ///////// -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -81,11 +80,11 @@
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" width="80" alt="Jupyter" />
         <br>Jupyter
       </td>
       <td align="center" width="96">
-       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" width="100" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
