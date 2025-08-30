@@ -9,12 +9,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abmstpha/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" />
+  <a href="https://www.linkedin.com/in/abmstpha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://abmstpha.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=black&border_radius=10" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
