@@ -28,6 +28,18 @@
 </p>
 
 <br>
+---
+
+## 🚀 About Me
+
+- 🧠 I'm currently building agent evaluation pipelines at **Norma Dev** and doing an **AI Engineering alternance**.
+- 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**.
+- 🛠️ I work on open source projects, voice-based onboarding agents, and intelligent matching systems.
+- 🌍 I’m building projects for both France 🇫🇷 and Mauritania 🇲🇷.
+- 💬 Ask me about LLM orchestration, RAG evaluation, LangChain, FastAPI, or anything AI-native.
+- 🌱 Currently learning: advanced retrieval methods, ReAct + LangGraph, and agent memory design.
+
+---
 
 <!-- ///////// TECH STACK SECTION ///////// -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
