@@ -15,9 +15,6 @@
   <a href="https://abmstpha.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white&border_radius=10" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" />
-  </a>
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
@@ -230,14 +227,7 @@
 
 <br>
 
-<!-- ///////// ACHIEVEMENTS SECTION ///////// -->
-<h2 align="center">🏆 GitHub Achievements</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abmstpha&theme=tokyonight&no-frame=true&only_achievement=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<br>
 
 <!-- ///////// CONTACT & SOCIAL SECTION ///////// -->
 <h2 align="center">🌐 Connect With Me</h2>
@@ -248,9 +238,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://abmstpha.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&border_radius=10" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Abmstpha">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10" />
