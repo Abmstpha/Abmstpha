@@ -125,7 +125,7 @@
 
 <!-- Project 2: Convolutional AutoEncoder -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/DeepLearning/main/preview.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -144,7 +144,7 @@
 
 <!-- Project 3: YOLOv5 Blood Cell Detection -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/BloodCells-YOLOv5/main/preview.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project3.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -160,7 +160,7 @@
 
 <!-- Project 4: Credit Card Analytics -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/PowerBI/main/preview.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -179,7 +179,7 @@
 
 <!-- Project 5: AceTrack AI -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/AceTrackAI/main/preview.png" alt="AceTrack AI Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project5.png" alt="AceTrack AI Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
   </a>
@@ -195,7 +195,7 @@
 
 <!-- Project 6: E-Commerce Dashboard -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://raw.githubusercontent.com/Abmstpha/ecommerce-dashboard/main/preview.png" alt="E-commerce Dashboard Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./project6.png" alt="E-commerce Dashboard Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=ecommerce-dashboard&theme=tokyonight&border_radius=8" width="400" height="150" />
   </a>
