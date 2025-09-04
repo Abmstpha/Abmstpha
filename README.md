@@ -106,19 +106,19 @@
 <tr>
 
 
-<!-- Project 1: NLP Project -->
+<!-- Project 1: Neologism Translator -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project1.png" alt="NLP Project" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/NLP-Projects" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP-Projects&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  <img src="./project1.png" alt="Neologism Translator" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/NLP" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=NLP&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 NLP Classification</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A transformer-based text classification project using HuggingFace pipelines and TensorFlow for sentiment analysis.</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🔤 Neologism Translator</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Created an NLP model to generate precise scientific terms (neologisms) from definitions, enhancing multilingual translation techniques in research contexts.</p>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=ai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-10217D?style=flat-square&logo=scikitlearn&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
   </div>
 </td>
 
