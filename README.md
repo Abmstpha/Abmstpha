@@ -105,16 +105,15 @@
 <table align="center" style="border-spacing: 20px;">
 <tr>
 
-
 <!-- Project 1: Neologism Translator -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
   <img src="./project1.png" alt="Neologism Translator" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/NLP" target="_blank">
+  <a href="https://github.com/Abmstpha/nlpneologism" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=nlpneologism&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🔤 Neologism Translator</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Generate precise scientific terms (neologisms) from definitions to improve multilingual research translation.
+    Notebook → <code>src/</code> refactor for generating precise scientific terms from definitions (multilingual NLP). Clean repo layout: <code>src/</code>, <code>notebooks/</code>, <code>data/</code>, <code>models/</code>, <code>logs/</code>.
   </p>
   <br>
   <div>
@@ -124,14 +123,16 @@
   </div>
 </td>
 
-<!-- Project 2: Convolutional AutoEncoder -->
+<!-- Project 2: Image Compression (Autoencoder) -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project2.png" alt="Convolutional AutoEncoder for CIFAR Dataset" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/DeepLearning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=DeepLearning&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  <img src="./project2.png" alt="Image Compression Autoencoder (CIFAR-10)" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/image-compression" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=image-compression&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🖼️ Convolutional AutoEncoder</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">A deep learning model for image compression and reconstruction using the CIFAR-10 dataset with a custom encoder-decoder architecture.</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🖼️ Image Compression (Conv Autoencoder)</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
+    Dev-friendly repo for CIFAR-10 compression/reconstruction with a custom encoder–decoder, logs, and model checkpoints in dedicated folders.
+  </p>
   <br>
   <div>
     <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
