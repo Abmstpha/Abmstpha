@@ -216,24 +216,24 @@
 </table>
 
 <br><br>
+
 <!-- ///////// GITHUB STATS SECTION ///////// -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=Abmstpha&theme=tokyonight&border_radius=10&border=36BCF7&v=2" />
+  <img src="https://streak-stats.demolab.com/?user=Abmstpha&theme=tokyonight&border_radius=10&border=36BCF7&v=3" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=2" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3" />
 </div>
 
 <br>
-
 
 
 <!-- ///////// CONTACT & SOCIAL SECTION ///////// -->
