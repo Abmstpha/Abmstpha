@@ -1,11 +1,11 @@
 <!-- ///////// NAME AND BADGES ///////// -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" alt="Header Image"/>
 </div>
 
 <h1 align="center">
   <b>Hiii, I'm Abdellahi El Moustapha!</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving Hand">
 </h1>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 ## 🚀 About Me
 
-- 🧠 I'm currently building AI agents evaluation system at **Norma Dev** and building the first European complience-first Chatbot starter pack.
-- 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**, graudating late 2026.
+- 🧠 I'm currently building AI agents evaluation system at **Norma Dev** and building the first European compliance-first Chatbot starter pack.
+- 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**, graduating late 2026.
 - 🛠️ I work on open source projects, voice-based onboarding agents, and intelligent matching systems.
 - 🌍 I’m building projects worldwide.
 - 💬 Ask me about LLM orchestration, RAG evaluation, LangChain, FastAPI, or anything AI-native.
@@ -221,12 +221,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3&cache_seconds=1800"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=Abmstpha&theme=tokyonight&border_radius=10&border=36BCF7&v=3" />
+  <img src="https://streak-stats.demolab.com/?user=Abmstpha&theme=tokyonight&border_radius=10&border=36BCF7&v=3&cache_seconds=1800" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -262,7 +262,7 @@
 
 <!-- ///////// FOOTER ///////// -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
   
   <h3>💫 Thanks for visiting my profile!</h3>
 
