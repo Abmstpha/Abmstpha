@@ -230,7 +230,10 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&days=180&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3"
+    alt="GitHub activity graph – last 180 days"
+  />
 </div>
 
 <br>
