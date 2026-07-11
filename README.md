@@ -105,109 +105,109 @@
 <table align="center" style="border-spacing: 20px;">
 <tr>
 
-<!-- Project 1: Neologism Translator -->
+<!-- Project 1: Benchmind -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project1.png" alt="Neologism Translator" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/nlpneologism" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=nlpneologism&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
+  <img src="https://opengraph.githubassets.com/1/Abmstpha/Benchmind" alt="Benchmind" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/Benchmind" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=Benchmind&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🔤 Neologism Translator</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 Benchmind</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Notebook → <code>src/</code> refactor for generating precise scientific terms from definitions (multilingual NLP). Clean repo layout: <code>src/</code>, <code>notebooks/</code>, <code>data/</code>, <code>models/</code>, <code>logs/</code>.
+    Autonomous AI consultant that picks the optimal model across quality, cost, and carbon footprint — combining real-time benchmarking with web-sourced quality data.
   </p>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" />
-  </div>
-</td>
-
-<!-- Project 2: Image Compression (Autoencoder) -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project2.png" alt="Image Compression Autoencoder (CIFAR-10)" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/image-compression" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=image-compression&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🖼️ Image Compression (Conv Autoencoder)</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
-    Dev-friendly repo for CIFAR-10 compression/reconstruction with a custom encoder–decoder, logs, and model checkpoints in dedicated folders.
-  </p>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/CIFAR10-FF6F00?style=flat-square" />
-  </div>
-</td>
-
-</tr>
-<tr>
-
-<!-- Project 3: YOLOv5 Blood Cell Detection -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project3.png" alt="YOLOv5: Detecting Blood Cells" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/BloodCells-YOLOv5" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=BloodCells-YOLOv5&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🏥 YOLOv5: Blood Cell Detection</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">YOLOv5 model trained for detection/classification of blood cells (WBC, RBC, Platelets) in medical imaging datasets.</p>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/YOLO-FF6F00?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Medical_AI-DC143C?style=flat-square" />
-    <img src="https://img.shields.io/badge/Computer_Vision-00BFFF?style=flat-square" />
-  </div>
-</td>
-
-<!-- Project 4: Credit Card Analytics -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project4.png" alt="Credit Card Analysis Dashboards" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/PowerBI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=PowerBI&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">💳 Credit Card Analytics</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Power BI dashboards for analyzing credit card behavior, detecting fraud, and scoring financial risk.</p>
-  <br>
-  <div>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Finance-228B22?style=flat-square" />
-  </div>
-</td>
-
-</tr>
-<tr>
-
-<!-- Project 5: AceTrack AI -->
-<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project5.png" alt="AceTrack AI Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
-  </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 AceTrack AI</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload student exam PDFs and get structured GPT-based feedback using OCR and AI evaluation logic.</p>
-  <br>
-  <div>
+    <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/GPT-6e40c9?style=flat-square" />
   </div>
 </td>
 
-<!-- Project 6: E-Commerce Dashboard -->
+<!-- Project 2: VocaTinder -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./project6.png" alt="E-commerce Dashboard Preview" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/ecommerce-dashboard" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=ecommerce-dashboard&theme=tokyonight&border_radius=8" width="400" height="150" />
+  <img src="https://opengraph.githubassets.com/1/Abmstpha/Vocatinder" alt="VocaTinder" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/Vocatinder" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=Vocatinder&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📊 E-Commerce Dashboard</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Interactive dashboard for tracking product trends, customer behavior, and sales using Plotly Dash.</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🃏 VocaTinder <sup>🏆 1st place · Open Build Paris</sup></p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
+    Agentic French-gender learning game built on ReAct agents, live French headlines, and swipeable quiz cards.
+  </p>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/Dash-1e1e1e?style=flat-square&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/ReAct_Agents-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square" />
+  </div>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project 3: AI-Mizan -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://opengraph.githubassets.com/1/Abmstpha/AI-Mizan" alt="AI-Mizan" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AI-Mizan&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">⚖️ AI-Mizan</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Structured prompt benchmark evaluating an LLM's ability to understand and generate Hassaniya, the Mauritanian Arabic dialect — written and spoken.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Low_Resource_NLP-6e40c9?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  </div>
+</td>
+
+<!-- Project 4: IONOS AI Agent Starter Pack -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://opengraph.githubassets.com/1/www-norma-dev/IONOS-simple-chatbot" alt="IONOS AI Agent Starter Pack" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=www-norma-dev&repo=IONOS-simple-chatbot&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🤖 IONOS AI Agent Starter Pack</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Full-stack ReAct agent on IONOS AI — real-time web search, dual model support (Hub & Studio), and streaming responses, ready for production.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+    <img src="https://img.shields.io/badge/ReAct_Agent-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  </div>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project 5: European RAG Chatbot Starter -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://opengraph.githubassets.com/1/Abmstpha/IONOSchatbotwithRAG" alt="European RAG Chatbot Starter" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/IONOSchatbotwithRAG" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=IONOSchatbotwithRAG&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📚 European RAG Chatbot Starter</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">The first European RAG chatbot starter pack on IONOS AI — file uploads, memory, context persistence, and dual Next.js / Streamlit frontends.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  </div>
+</td>
+
+<!-- Project 6: CareerAgent -->
+<td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <img src="https://opengraph.githubassets.com/1/Abmstpha/careeragent" alt="CareerAgent" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/careeragent" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=careeragent&theme=tokyonight&border_radius=8" width="400" height="150" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧭 CareerAgent</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">LLM career assistant that maps your next steps, skill gaps, and project ideas from your background.</p>
+  <br>
+  <div>
+    <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/LLM-6e40c9?style=flat-square" />
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   </div>
 </td>
 
