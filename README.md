@@ -217,14 +217,14 @@
 
 <!-- Project 7: Sell Baby Sell (flashdeal) -->
 <td colspan="2" align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <a href="https://sellbabysell.ai/" target="_blank">
+  <a href="http://45.63.71.239/" target="_blank">
     <img src="./flashdeal.png" alt="Sell Baby Sell — the exit rail for hospitality" width="720" height="378" style="margin-bottom: 12px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🏨 Sell Baby Sell <sup>🏆 RAISE 2026 Hackathon</sup></p>
   <p style="margin: 0 auto; color: #c9d1d9; font-size: 14px; max-width: 620px;">The exit rail for hospitality — turns a Paris-region property into an investor-ready, fully underwritten deal from a single address in about a minute. A <b>LangGraph Deep Agents</b> team (a Deal Lead orchestrator delegating to 7 managed subagents) runs valuation, compliance, financials, risk, and buyer matching, then ships a marketplace listing with a real data room.</p>
   <br>
   <div>
-    <a href="https://sellbabysell.ai/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-sellbabysell.ai-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <a href="http://45.63.71.239/" target="_blank"><img src="https://img.shields.io/badge/🔗_Live_Demo-Open_App-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/LangGraph_Deep_Agents-FF6F00?style=flat-square" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
