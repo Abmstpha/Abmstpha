@@ -179,19 +179,19 @@
 </tr>
 <tr>
 
-<!-- Project 5: European RAG Chatbot Starter -->
+<!-- Project 5: AceTrack AI -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="./rag-starter.png" alt="European RAG Chatbot Starter" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <a href="https://github.com/Abmstpha/IONOSchatbotwithRAG" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=IONOSchatbotwithRAG&theme=tokyonight&border_radius=8" width="400" height="150" />
+  <img src="./acetrack.png" alt="AceTrack AI" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AceTrackAI&theme=tokyonight&border_radius=8" width="400" height="150" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📚 European RAG Chatbot Starter</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">The first European RAG chatbot starter pack on IONOS AI — file uploads, memory, context persistence, and dual Next.js / Streamlit frontends.</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📝 AceTrack AI</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload a student's exam PDF and get structured GPT-based feedback — OCR plus AI evaluation logic on a FastAPI backend.</p>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPT-6e40c9?style=flat-square" />
+    <img src="https://img.shields.io/badge/OCR-FF6F00?style=flat-square" />
   </div>
 </td>
 
@@ -211,6 +211,26 @@
   </div>
 </td>
 
+
+</tr>
+<tr>
+
+<!-- Project 7: Sell Baby Sell (flashdeal) -->
+<td colspan="2" align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <a href="https://sellbabysell.ai/" target="_blank">
+    <img src="./flashdeal.png" alt="Sell Baby Sell — the exit rail for hospitality" width="720" height="378" style="margin-bottom: 12px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  </a>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🏨 Sell Baby Sell <sup>🏆 RAISE 2026 Hackathon</sup></p>
+  <p style="margin: 0 auto; color: #c9d1d9; font-size: 14px; max-width: 620px;">The exit rail for hospitality — turns a Paris-region property into an investor-ready, fully underwritten deal from a single address in about a minute. A <b>LangGraph Deep Agents</b> team (a Deal Lead orchestrator delegating to 7 managed subagents) runs valuation, compliance, financials, risk, and buyer matching, then ships a marketplace listing with a real data room.</p>
+  <br>
+  <div>
+    <a href="https://sellbabysell.ai/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-sellbabysell.ai-36BCF7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/LangGraph_Deep_Agents-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square" />
+  </div>
+</td>
 
 </tr>
 </table>
