@@ -107,7 +107,7 @@
 
 <!-- Project 1: Benchmind -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/Abmstpha/Benchmind" alt="Benchmind" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./benchmind.png" alt="Benchmind" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/Benchmind" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=Benchmind&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -125,7 +125,7 @@
 
 <!-- Project 2: VocaTinder -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/Abmstpha/Vocatinder" alt="VocaTinder" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./vocatinder.png" alt="VocaTinder" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/Vocatinder" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=Vocatinder&theme=tokyonight&border_radius=8&cache_seconds=1800" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -146,7 +146,7 @@
 
 <!-- Project 3: AI-Mizan -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/Abmstpha/AI-Mizan" alt="AI-Mizan" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./ai-mizan.png" alt="AI-Mizan" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=AI-Mizan&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -162,7 +162,7 @@
 
 <!-- Project 4: IONOS AI Agent Starter Pack -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/www-norma-dev/IONOS-simple-chatbot" alt="IONOS AI Agent Starter Pack" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./ionos-agent.png" alt="IONOS AI Agent Starter Pack" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=www-norma-dev&repo=IONOS-simple-chatbot&theme=tokyonight&border_radius=8" width="400" height="150" style="margin-bottom: 10px;" />
   </a>
@@ -181,7 +181,7 @@
 
 <!-- Project 5: European RAG Chatbot Starter -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/Abmstpha/IONOSchatbotwithRAG" alt="European RAG Chatbot Starter" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./rag-starter.png" alt="European RAG Chatbot Starter" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/IONOSchatbotwithRAG" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=IONOSchatbotwithRAG&theme=tokyonight&border_radius=8" width="400" height="150" />
   </a>
@@ -197,17 +197,17 @@
 
 <!-- Project 6: CareerAgent -->
 <td align="center" style="padding: 15px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <img src="https://opengraph.githubassets.com/1/Abmstpha/careeragent" alt="CareerAgent" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="./careerforge.png" alt="CareerForge" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   <a href="https://github.com/Abmstpha/careeragent" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abmstpha&repo=careeragent&theme=tokyonight&border_radius=8" width="400" height="150" />
   </a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧭 CareerAgent</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">LLM career assistant that maps your next steps, skill gaps, and project ideas from your background.</p>
+  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🎙️ CareerForge</p>
+  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Voice-powered AI mock-interview coach — real-time speech-to-speech interview practice with a cloned-voice interviewer agent.</p>
   <br>
   <div>
-    <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square" />
-    <img src="https://img.shields.io/badge/LLM-6e40c9?style=flat-square" />
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Voice_AI-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   </div>
 </td>
 
