@@ -98,7 +98,7 @@
 <br><br>
 
 <!-- ///////// PROJECTS SECTION ///////// -->
-<h2 align="center">💻 My Recent Projects</h2>
+<h2 align="center">💻 Sampled Projects</h2>
 <br />
 
 <!-- Table layout for 6 projects -->
