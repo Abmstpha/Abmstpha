@@ -284,7 +284,14 @@
 
 <!-- ///////// INSPIRATIONAL QUOTE ///////// -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10" />
+<table>
+<tr>
+<td align="center" style="padding: 22px 34px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
+  <p style="margin: 0; font-style: italic; color: #9ece6a; font-size: 16px;">"If you can't explain it simply, you don't understand it well enough."</p>
+  <p style="margin: 12px 0 0; color: #7aa2f7; font-size: 14px;">— Albert Einstein</p>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
