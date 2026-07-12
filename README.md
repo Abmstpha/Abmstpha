@@ -111,7 +111,7 @@
     <img src="./benchmind.png" alt="Benchmind" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/Benchmind" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Abmstpha/Benchmind" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/Benchmind?style=for-the-badge&logo=github&logoColor=white&label=Benchmind&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 Benchmind</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
     Autonomous AI consultant that picks the optimal model across quality, cost, and carbon footprint — combining real-time benchmarking with web-sourced quality data.
@@ -130,7 +130,7 @@
     <img src="./vocatinder.png" alt="VocaTinder" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/Vocatinder" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Abmstpha/Vocatinder" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/Vocatinder?style=for-the-badge&logo=github&logoColor=white&label=VocaTinder&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🃏 VocaTinder <sup>🏆 1st place · Open Build Paris</sup></p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
     Agentic French-gender learning game built on ReAct agents, live French headlines, and swipeable quiz cards.
@@ -152,7 +152,7 @@
     <img src="./ai-mizan.png" alt="AI-Mizan" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AI-Mizan?style=for-the-badge&logo=github&logoColor=white&label=AI-Mizan&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">⚖️ AI-Mizan</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Structured prompt benchmark evaluating an LLM's ability to understand and generate Hassaniya, the Mauritanian Arabic dialect — written and spoken.</p>
   <br>
@@ -169,7 +169,7 @@
     <img src="./ionos-agent.png" alt="IONOS AI Agent Starter Pack" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank"><img src="https://img.shields.io/github/stars/www-norma-dev/IONOS-simple-chatbot?style=for-the-badge&logo=github&logoColor=white&label=IONOS%20Starter&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🤖 IONOS AI Agent Starter Pack</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Full-stack ReAct agent on IONOS AI — real-time web search, dual model support (Hub & Studio), and streaming responses, ready for production.</p>
   <br>
@@ -189,7 +189,7 @@
     <img src="./acetrack.png" alt="AceTrack AI" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AceTrackAI?style=for-the-badge&logo=github&logoColor=white&label=AceTrack%20AI&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📝 AceTrack AI</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload a student's exam PDF and get structured GPT-based feedback — OCR plus AI evaluation logic on a FastAPI backend.</p>
   <br>
@@ -206,7 +206,7 @@
     <img src="./careerforge.png" alt="CareerForge" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/careeragent" target="_blank"><img src="https://img.shields.io/badge/View_Repo-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Abmstpha/careeragent" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/careeragent?style=for-the-badge&logo=github&logoColor=white&label=CareerForge&labelColor=24292e&color=1f6feb" /></a>
   <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🎙️ CareerForge</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Voice-powered AI mock-interview coach — real-time speech-to-speech interview practice with a cloned-voice interviewer agent.</p>
   <br>
@@ -284,14 +284,7 @@
 
 <!-- ///////// INSPIRATIONAL QUOTE ///////// -->
 <div align="center">
-<table>
-<tr>
-<td align="center" style="padding: 22px 34px; border: 2px solid #30363d; border-radius: 10px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);">
-  <p style="margin: 0; font-style: italic; color: #9ece6a; font-size: 16px;">"If you can't explain it simply, you don't understand it well enough."</p>
-  <p style="margin: 12px 0 0; color: #7aa2f7; font-size: 14px;">— Albert Einstein</p>
-</td>
-</tr>
-</table>
+  <img src="./quote.png" width="620" alt="If you can't explain it simply, you don't understand it well enough. — Albert Einstein" />
 </div>
 
 <br>
