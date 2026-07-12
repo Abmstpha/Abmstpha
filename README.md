@@ -19,7 +19,7 @@
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer+%7C+Data+Scientist+%7C+Builder;🎓+Data+Scientist+at+Norma;🚀+Shaping+AI+Evaluation+Workflows" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer;🤖+AI+Engineer+%7C+Agent+Builder;🚀+Shaping+AI+Evaluation+Workflows" alt="Typing SVG">
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 🧠 I'm currently building AI agents evaluation system at **Norma Dev** and building the first European compliance-first Chatbot starter pack.
+- 🧠 I'm currently building AI agent evaluation systems and the first European compliance-first Chatbot starter pack.
 - 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**, graduating late 2026.
 - 🛠️ I work on open source projects, voice-based onboarding agents, and intelligent matching systems.
 - 🌍 I’m building projects worldwide.
@@ -111,9 +111,7 @@
     <img src="./benchmind.png" alt="Benchmind" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/Benchmind" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/Benchmind?style=for-the-badge&logo=github&logoColor=white&label=Benchmind&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🧠 Benchmind</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
+  <a href="https://github.com/Abmstpha/Benchmind" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/Benchmind?style=for-the-badge&logo=github&logoColor=white&label=Benchmind&labelColor=24292e&color=1f6feb" /></a>  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
     Autonomous AI consultant that picks the optimal model across quality, cost, and carbon footprint — combining real-time benchmarking with web-sourced quality data.
   </p>
   <br>
@@ -131,7 +129,7 @@
   </a>
   <br>
   <a href="https://github.com/Abmstpha/Vocatinder" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/Vocatinder?style=for-the-badge&logo=github&logoColor=white&label=VocaTinder&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🃏 VocaTinder <sup>🏆 1st place · Open Build Paris</sup></p>
+  <p style="margin: 5px 0; font-weight: bold; color: #f7b733; font-size: 14px;">🏆 1st place · Open Build Paris</p>
   <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">
     Agentic French-gender learning game built on ReAct agents, live French headlines, and swipeable quiz cards.
   </p>
@@ -152,9 +150,7 @@
     <img src="./ai-mizan.png" alt="AI-Mizan" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AI-Mizan?style=for-the-badge&logo=github&logoColor=white&label=AI-Mizan&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">⚖️ AI-Mizan</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Structured prompt benchmark evaluating an LLM's ability to understand and generate Hassaniya, the Mauritanian Arabic dialect — written and spoken.</p>
+  <a href="https://github.com/Abmstpha/AI-Mizan" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AI-Mizan?style=for-the-badge&logo=github&logoColor=white&label=AI-Mizan&labelColor=24292e&color=1f6feb" /></a>  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Structured prompt benchmark evaluating an LLM's ability to understand and generate Hassaniya, the Mauritanian Arabic dialect — written and spoken.</p>
   <br>
   <div>
     <img src="https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=flat-square" />
@@ -169,9 +165,7 @@
     <img src="./ionos-agent.png" alt="IONOS AI Agent Starter Pack" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank"><img src="https://img.shields.io/github/stars/www-norma-dev/IONOS-simple-chatbot?style=for-the-badge&logo=github&logoColor=white&label=IONOS%20Starter&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🤖 IONOS AI Agent Starter Pack</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Full-stack ReAct agent on IONOS AI — real-time web search, dual model support (Hub & Studio), and streaming responses, ready for production.</p>
+  <a href="https://github.com/www-norma-dev/IONOS-simple-chatbot" target="_blank"><img src="https://img.shields.io/github/stars/www-norma-dev/IONOS-simple-chatbot?style=for-the-badge&logo=github&logoColor=white&label=IONOS%20Starter&labelColor=24292e&color=1f6feb" /></a>  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Full-stack ReAct agent on IONOS AI — real-time web search, dual model support (Hub & Studio), and streaming responses, ready for production.</p>
   <br>
   <div>
     <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
@@ -189,9 +183,7 @@
     <img src="./acetrack.png" alt="AceTrack AI" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AceTrackAI?style=for-the-badge&logo=github&logoColor=white&label=AceTrack%20AI&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">📝 AceTrack AI</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload a student's exam PDF and get structured GPT-based feedback — OCR plus AI evaluation logic on a FastAPI backend.</p>
+  <a href="https://github.com/Abmstpha/AceTrackAI" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/AceTrackAI?style=for-the-badge&logo=github&logoColor=white&label=AceTrack%20AI&labelColor=24292e&color=1f6feb" /></a>  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Upload a student's exam PDF and get structured GPT-based feedback — OCR plus AI evaluation logic on a FastAPI backend.</p>
   <br>
   <div>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -206,9 +198,7 @@
     <img src="./careerforge.png" alt="CareerForge" width="350" height="180" style="margin-bottom: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <a href="https://github.com/Abmstpha/careeragent" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/careeragent?style=for-the-badge&logo=github&logoColor=white&label=CareerForge&labelColor=24292e&color=1f6feb" /></a>
-  <p style="margin: 5px 0; font-weight: bold; color: #36BCF7; font-size: 18px;">🎙️ CareerForge</p>
-  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Voice-powered AI mock-interview coach — real-time speech-to-speech interview practice with a cloned-voice interviewer agent.</p>
+  <a href="https://github.com/Abmstpha/careeragent" target="_blank"><img src="https://img.shields.io/github/stars/Abmstpha/careeragent?style=for-the-badge&logo=github&logoColor=white&label=CareerForge&labelColor=24292e&color=1f6feb" /></a>  <p style="margin: 0; color: #c9d1d9; font-size: 14px; max-width: 350px;">Voice-powered AI mock-interview coach — real-time speech-to-speech interview practice with a cloned-voice interviewer agent.</p>
   <br>
   <div>
     <img src="https://img.shields.io/badge/Voice_AI-FF6F00?style=flat-square" />
@@ -247,8 +237,8 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abmstpha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&border_color=36BCF7&v=3&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abmstpha&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=36BCF7&hide=Jupyter%20Notebook,Procfile&v=3&cache_seconds=1800"/>
+  <img height="200em" src="./stats.png" alt="Abdellahi's GitHub stats"/>
+  <img height="200em" src="./toplangs.png" alt="Most used languages"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
