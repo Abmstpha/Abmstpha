@@ -237,9 +237,9 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img height="200em" src="./stats.png" alt="Abdellahi's GitHub stats"/>
-  <img height="200em" src="./toplangs.png" alt="Most used languages"/>
+  <img src="./metrics.svg" alt="Abdellahi's GitHub stats and most used languages"/>
 </div>
+<p align="center"><sub>Auto-generated every 6h by <a href="./.github/workflows/metrics.yml">GitHub Actions</a> — no third-party hosted service, so it never goes down like the old vercel.app cards.</sub></p>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://streak-stats.demolab.com/?user=Abmstpha&theme=tokyonight&border_radius=10&border=36BCF7&v=3&cache_seconds=1800" />
@@ -247,7 +247,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&days=180&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&v=3"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abmstpha&days=180&theme=tokyo-night&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=false&border_radius=10&height=270&v=3"
     alt="GitHub activity graph – last 180 days"
   />
 </div>
