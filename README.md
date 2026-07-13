@@ -19,7 +19,7 @@
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer;🤖+AI+Engineer+%7C+Agent+Builder;🚀+Shaping+AI+Evaluation+Workflows" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🧠+AI+Engineer;%7C+Agent+Builder;🚀+Shaping+AI+Evaluation+Workflows" alt="Typing SVG">
 </p>
 
 <br>
