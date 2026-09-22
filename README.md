@@ -27,12 +27,12 @@
 
 ## 🚀 About Me
 
-- 🧠 I'm currently building AI agent evaluation systems and the first European compliance-first Chatbot starter pack.
-- 🎓 I'm pursuing a Master’s in **Artificial Intelligence & Data Science** at **Aivancity Paris**, graduating late 2026.
-- 🛠️ I work on open source projects, voice-based onboarding agents, and intelligent matching systems.
-- 🌍 I’m building projects worldwide.
-- 💬 Ask me about LLM orchestration, RAG evaluation, LangChain, FastAPI, or anything AI-native.
-- 🌱 Currently learning: advanced retrieval methods, ReAct + LangGraph, and agent memory design.
+- 🧠 I’m a Paris-based AI Engineer building production AI agents, RAG systems, and evaluation tools.
+- 🎓 I hold a Master’s in Data Science & Artificial Intelligence from Aivancity Paris and an Engineering Diploma in Data Science from École Supérieure Polytechnique.
+- 🛠️ At NORMA, I built customer-facing AI systems and worked on AgenticQA, LevelApp and its MCP server, and the open-source IONOS AI Agent Starter Pack.
+- 🔬 My AgentGlass research examines where autonomous agents fail across 3,000 execution trajectories—not just whether their final answers pass.
+- 🌍 I build across domains, from multi-agent business workflows to healthcare AI, and founded the Paris AI Community.
+- 💬 Ask me about agent orchestration, RAG, fine-tuning, evaluation, FastAPI, or turning AI prototypes into reliable products.
 
 ---
 
